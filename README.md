@@ -4,7 +4,7 @@
 
 A fast, simple & powerful blog framework, powered by [Node.js](http://nodejs.org).
 
-**This fork is an enhanced version of hexo for my personal use. Features under development includes unlisting posts, portfolio and so on. Based on hexo 3.1.1.**
+**This fork is an enhanced version of hexo for my personal use. Features under development includes unlisting posts, portfolio and so on. Based on hexo 3.2.0beta.**
 
 ## Features
 
