@@ -4,6 +4,8 @@
 
 A fast, simple & powerful blog framework, powered by [Node.js](http://nodejs.org).
 
+This fork is an enhanced version of hexo with support of unlisting posts, portfolio and so on, based on hexo 3.1.1. Work in proress.
+
 ## Features
 
 - Blazing fast generating
